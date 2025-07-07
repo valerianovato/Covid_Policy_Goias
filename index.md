@@ -52,6 +52,16 @@ These results were formally reported to the State Secretariat of Health and the 
 This project applied healthcare analytics and policy science in a time-sensitive context. It showed how even in non-experimental settings, clear methods and structured instruments can uncover important behavioral insights that shape effective public health strategy.
 
 ---
+# analysis.R
+# COVID-19 Policy Implementation in Goiás: Survey Analysis
+# -----------------------------------------------
+# NOTE:
+# This script uses a simulated dataset to illustrate the analysis
+# workflow. It has been adapted from the original study to preserve
+# data confidentiality and research ethics.
+#
+# The logic, variables, and structure reflect the real analysis conducted
+# for reporting to the Government of Goiás, but the data itself is not real.
 
 ## Tags
 
